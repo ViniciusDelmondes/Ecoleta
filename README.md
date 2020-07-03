@@ -118,5 +118,5 @@ Para clonar e rodar esta aplicação, é necessário ter o Git e o Node.js insta
 </p>
 
 <h4>
- Projeto realizado por: Vinicius Delmondes
+ Projeto realizado por: Vinicius Delmondes - Em estudo junto com a Rocketseat
 </h4>
