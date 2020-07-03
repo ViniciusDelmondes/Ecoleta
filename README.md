@@ -1,5 +1,5 @@
 <p align="center">
-	![](https://raw.githubusercontent.com/ViniciusDelmondes/Ecoleta/2443137bb4be710b531c6cc8186005efe8c9205d/ecoleta/src/assets/logo.svg)
+	![logo](https://user-images.githubusercontent.com/60788150/86496478-0363dc00-bd54-11ea-9da4-3ef895178d56.png)
 </p>
 <p align="center">
 	![](https://raw.githubusercontent.com/ViniciusDelmondes/Ecoleta/2443137bb4be710b531c6cc8186005efe8c9205d/ecoleta/github/logo-nlw.svg)
