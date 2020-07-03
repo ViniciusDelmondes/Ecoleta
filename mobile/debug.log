@@ -1,0 +1,3 @@
+[0625/004350.932:ERROR:process_info.cc(329)] VirtualQueryEx: Acesso negado. (0x5)
+[0625/004350.948:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0625/004350.948:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Tentou-se acessar um processo de saída. (0xc000010a)
