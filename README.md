@@ -1,9 +1,9 @@
-<div align="center">
-	![](https://raw.githubusercontent.com/ViniciusDelmondes/Ecoleta/2443137bb4be710b531c6cc8186005efe8c9205d/ecoleta/src/assets/logo.svg)
-</div>
-<p align="center">
-	![](https://raw.githubusercontent.com/ViniciusDelmondes/Ecoleta/2443137bb4be710b531c6cc8186005efe8c9205d/ecoleta/github/logo-nlw.svg)
-</p>
+
+![logo-nlw](https://user-images.githubusercontent.com/60788150/86496772-2f339180-bd55-11ea-875e-b9c465548898.png)
+
+
+
+
 <p align="center">
 ![](https://img.shields.io/github/languages/count/ViniciusDelmondes/Ecoleta)  ![](https://img.shields.io/github/last-commit/ViniciusDelmondes/Ecoleta) ![](https://img.shields.io/github/languages/top/ViniciusDelmondes/Ecoleta) ![](https://img.shields.io/github/repo-size/ViniciusDelmondes/Ecoleta)
 <p/>
