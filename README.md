@@ -22,7 +22,7 @@ Ecoleta é um projeto desenvolvido com base na semana internacional do meio ambi
 
 
 <p align="center">
-![](https://raw.githubusercontent.com/ViniciusDelmondes/Ecoleta/d5f7eebdd76c0e4d24eae8bf699b3a1c02b759f5/ecoleta/github/capa.svg)
+<img src="https://user-images.githubusercontent.com/60788150/86497224-2d6acd80-bd57-11ea-9759-5fbcc07b976e.png" width="500px">
 </p>
 
 <h2>Sobre a Semana Next Level Week:</h2>
