@@ -9,9 +9,11 @@
 <img src="https://user-images.githubusercontent.com/60788150/86496772-2f339180-bd55-11ea-875e-b9c465548898.png">
 </p>
 
+<p align="center">
+<img src="https://img.shields.io/github/languages/count/ViniciusDelmondes/Ecoleta">  <img src="https://img.shields.io/github/last-commit/ViniciusDelmondes/Ecoleta"> <img src="https://img.shields.io/github/languages/top/ViniciusDelmondes/Ecoleta"> <img src="https://img.shields.io/github/repo-size/ViniciusDelmondes/Ecoleta">
+</p>
 
-![](https://img.shields.io/github/languages/count/ViniciusDelmondes/Ecoleta)  ![](https://img.shields.io/github/last-commit/ViniciusDelmondes/Ecoleta) ![](https://img.shields.io/github/languages/top/ViniciusDelmondes/Ecoleta) ![](https://img.shields.io/github/repo-size/ViniciusDelmondes/Ecoleta)
-
+<br/>
 	  
 <h2>
 O Projeto:
